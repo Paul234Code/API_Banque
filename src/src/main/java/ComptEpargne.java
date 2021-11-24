@@ -1,4 +1,6 @@
-package com.comptebancaire;
+package com.comptebancaire.src.src.main.java;
+
+import com.comptebancaire.src.src.main.java.CompteBancaire;
 
 public class ComptEpargne extends CompteBancaire {
 	private static double tauxInteret=6d;

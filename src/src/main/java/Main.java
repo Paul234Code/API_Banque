@@ -1,4 +1,8 @@
-package com.comptebancaire;
+package com.comptebancaire.src.src.main.java;
+
+import com.comptebancaire.src.src.main.java.ComptEpargne;
+import com.comptebancaire.src.src.main.java.CompteBancaire;
+import com.comptebancaire.src.src.main.java.ComptePayant;
 
 import java.util.ArrayList;
 import java.util.List;
