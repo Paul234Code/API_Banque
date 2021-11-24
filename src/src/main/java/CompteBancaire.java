@@ -1,4 +1,4 @@
-package com.comptebancaire;
+package com.comptebancaire.src.src.main.java;
 
 public class CompteBancaire {
 	protected double solde;
